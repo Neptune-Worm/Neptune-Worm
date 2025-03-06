@@ -30,10 +30,3 @@
   
 </div>
 
----
-
-<div align="center">
-  
-[![Visitors](https://komarev.com/ghpvc/?username=Neptune-Worm&color=blueviolet&style=flat-square)](https://github.com/Neptune-Worm)
-  
-</div>
