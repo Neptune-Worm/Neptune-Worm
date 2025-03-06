@@ -1,4 +1,3 @@
-# Felipe Dias 👨🏻‍💻
 
 <div align="center">
 
