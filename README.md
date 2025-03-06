@@ -2,7 +2,7 @@
 
 <!-- **`Desenvolvedor Backend | Cybersecurity`** -->
 
-<div align="center">
+<div align="left">
 
 <p align="left">
     <a href="https://github.com/Neptune-Worm?tab=repositories&sort=stargazers">
