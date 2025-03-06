@@ -11,7 +11,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -19,7 +19,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -27,29 +27,26 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img align="left" 
+<img align="center" 
     alt="Linux" 
     width="30px" 
     style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <img 
-    align="left" 
+    align="center" 
     alt="GitHub" 
     width="30px" 
     style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,git,python,linux,github,bash,vscode&theme=dark" />
-</p>
 
 ---
 
