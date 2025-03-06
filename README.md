@@ -1,6 +1,6 @@
 # Felipe Dias 👨🏻‍💻
 
-<!-- **`Desenvolvedor Backend | Cybersecurity`** -->
+**`Desenvolvedor Backend | Cybersecurity`**
 
 <div align="center">
 
