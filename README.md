@@ -2,12 +2,7 @@
 
 <!-- **`Desenvolvedor Backend | Cybersecurity`** -->
 
-![Cybersecurity Animation](./cybersecurity_animation.gif)
-
-
 <div align="center">
-
-
 
 <p align="left">
     <a href="https://github.com/Neptune-Worm?tab=repositories&sort=stargazers">
