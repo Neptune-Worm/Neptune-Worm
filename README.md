@@ -1,7 +1,5 @@
 # Felipe Dias 👨🏻‍💻
 
-**`Desenvolvedor Backend | Cybersecurity`**
-
 <div align="center">
 
 [![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/Neptune-Worm?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/Neptune-Worm?tab=repositories&sort=stargazers)
